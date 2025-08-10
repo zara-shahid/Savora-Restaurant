@@ -1,6 +1,6 @@
 # 🍽️ Savora - Restaurant Website
 
-![Website Preview](images/website-preview.png)
+![Website Preview](images/website-preview.PNG)
 
 Savora is a modern, fully responsive restaurant website built with **HTML**, **CSS**, **Bootstrap 5**, and **JavaScript**.  
 It features smooth scrolling, AOS animations, interactive gallery filtering, reservation forms, and more — designed for an elegant dining experience.
